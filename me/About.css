@@ -1,0 +1,82 @@
+.header{
+    height: 100px;
+    color: rgb(180, 73, 180);
+    background-color: rgb(235, 166, 181);
+  
+}
+
+.header h1{
+    text-align: center;
+    padding: 22px;
+}
+    
+.header img{
+    width: 100px;
+    float: left;
+    padding: 20px;
+}
+.details{
+    text-align: center;
+    font-size: 25px;
+}
+
+.details ul li{
+display:inline-block;
+padding-right: 20px;
+color:rgb(204, 96, 120);
+
+}
+
+span{
+font-size: 50px;
+padding: 30px;
+
+}
+
+.content-1{
+    width: 320px;
+    background-color: rgb(236, 198, 186);
+    display: inline-block;
+    height: 500px;
+}
+.content-1 h2{
+    text-align: center;
+    color: rgb(197, 94, 245);
+   
+}
+
+.pra{
+    padding: 10px;
+    font-size: 20px;
+}
+.content-2{
+   
+    background-color: rgb(219, 240, 193);
+    width: 1000px; 
+    height: 500px;
+    float: right;
+    
+ }
+ 
+ .content-2 h2{
+     text-align: center;
+     color: darkcyan;
+ }
+ 
+ 
+ .content-2 img{
+    padding: 20px;
+    float: left;
+    width: 250px;
+ }
+ .font{
+     font-size: 22px;
+ }
+.foot{
+ background-color: rgb(235, 166, 181);
+ height: 90px;
+ text-align: center;
+}
+.foot h3{
+    padding: 30px;
+}
