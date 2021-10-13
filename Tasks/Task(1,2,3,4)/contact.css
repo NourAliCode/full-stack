@@ -32,7 +32,7 @@ span{
     width: 300px;
     background-color: rgb(236, 198, 186);
     display: inline-block;
-    height: 700px;
+    height: 650px;
 }
 .content-1 h2{
 text-align: center;
@@ -43,36 +43,30 @@ font-size: 40px;
     font-size: 30px;
     padding: 20px;
 }
-.box1{
-    background-color:white ;
-    height: 30px;
-    width: 200px;
-    margin-left: 10px;
-}
-.box2{
-    background-color:white ;
-    height: 30px;
-    width: 200px;
-    margin-left: 10px;
-}
-.box3{
-    background-color:white ;
-    height: 40px;
-    width: 200px;
-    margin-left: 10px;
-}
 .content-1 h3{
     padding-left: 10px;
 }
+.box1,.box2,.box3{
+    background-color:white ;
+    height: 30px;
+    width: 200px;
+    margin-left: 10px;
+    border: 1px solid;
+}
+
+.box3{
+    height: 40px;
+}
+
 .content-2{
-    background-color: rgb(219, 240, 193);
+    background-color: rgb(204, 228, 174);
     width: 1020px; 
-    height: 700px;
+    height: 650px;
     float: right;
     
 }
 .content-2 img{
-    width: 800px;
+    width: 700px;
     height: 550px;
     padding-left: 20px;
     padding-top: 0;

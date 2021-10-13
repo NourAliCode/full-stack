@@ -51,7 +51,7 @@ padding: 30px;
 }
 .content-2{
    
-    background-color: rgb(219, 240, 193);
+    background-color:rgb(204, 228, 174);
     width: 1000px; 
     height: 500px;
     float: right;
@@ -65,13 +65,13 @@ padding: 30px;
  
  
  .content-2 img{
-    padding: 20px;
+    padding: 20px 50px 20px 20px;
     float: left;
-    width: 250px;
+    width: 250px;KO
  }
  .font{
      font-size: 22px;
- }
+  }
 .foot{
  background-color: rgb(235, 166, 181);
  height: 90px;
