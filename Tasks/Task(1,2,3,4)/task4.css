@@ -47,11 +47,10 @@ span{
     float: right;
     
 }
-button {
+button{
     float: left;
-    margin:50px;
+    margin: 50px;
 }
-
 #b2{
     float:right;
     margin:50px;

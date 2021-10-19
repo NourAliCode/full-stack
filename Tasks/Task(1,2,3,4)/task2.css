@@ -46,16 +46,8 @@ font-size: 40px;
 .content-1 h3{
     padding-left: 10px;
 }
-.box1,.box2,.box3{
-    background-color:white ;
-    height: 30px;
-    width: 200px;
-    margin-left: 10px;
-    border: 1px solid;
-}
-
-.box3{
-    height: 40px;
+input{
+    margin:10px;
 }
 
 .content-2{
